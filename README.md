@@ -1,4 +1,4 @@
-Hi 👋 My name is Maeve Johnson
+Hi 👋 My name is Mae Johnson
 ==============================
 
 Aspiring Software Developer
