@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with: </h2>
 
 ###
 
@@ -26,14 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/maevywaevy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=maevywaevy&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
