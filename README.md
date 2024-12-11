@@ -8,7 +8,7 @@ I've always had an interest in tech and now that I am further into school, I am 
 
 * 🌍  I'm based in Missouri
 * ✉️  You can contact me at [mason.x.johnson06@gmail.com](mailto:mason.x.johnson06@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning how to use Java with Software Development
 
 ### Skills
 
