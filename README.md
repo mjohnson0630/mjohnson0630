@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/mjohnson0630/mjohnson0630/output/snake.svg](https://github.com/mjohnson0630/mjohnson0630/blob/main/.github/workflows/snake.yml)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mjohnson0630/mjohnson0630/output/snake.svg" alt="Snake animation" />
 
 ###
