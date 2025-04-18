@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML logo" />
   <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-icons-1720083.png?f=webp" height="40" alt="Python logo" />
+  <img width="12" />
 </div>
 
 ###
