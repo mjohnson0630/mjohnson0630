@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Java and plan on studying computer science<br>🎯 Goals: Get a bachelor's degree in Comp Sci.<br>🎲 Fun fact: I'm a smart idiot</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Java and plan on studying computer science<br>🎯 Goals: Get a bachelor's degree in Comp Sci.<br>🎲 Fun fact: I'm ambidextrous</p>
 
 ###
 
